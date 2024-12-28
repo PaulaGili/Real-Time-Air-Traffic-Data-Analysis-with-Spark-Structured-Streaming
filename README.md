@@ -44,3 +44,9 @@ The project consists of several exercises that guide the user through:
 - JupyterLab or any Linux-based terminal (for SSH access)
 - `pyspark` library
 - `requests` library for API consumption
+
+###  Key Concepts:
+- Structured Streaming: A scalable and fault-tolerant stream processing system built on Spark SQL.
+- JSON Parsing: Using Spark's built-in functions to interpret and process JSON data.
+- Geospatial Analysis: Filtering and calculating distances based on geographic coordinates using the Haversine formula.
+- Spark SQL and DataFrames: Leveraging Spark’s SQL capabilities for querying and processing large-scale data.
